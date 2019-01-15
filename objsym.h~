@@ -1,0 +1,3 @@
+typedef struct node sym;
+
+sym * getsymtable(char *file);
