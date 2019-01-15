@@ -1,6 +1,8 @@
 Sophia Fondell
 CS 410: Assignment 0 - README
 
+Programs to copy object files and access their symbols and sections using statically and dynamically linked libraries
+
 FOR ALL TASKS, I USED THE EXECUTABLE FILE objsym AS MY FILENAME ARG FOR
 TESTING ALL PROGRAMS (which is why it's not included in make clean, but it
 certainly could be if one had another executable or object file, I just
